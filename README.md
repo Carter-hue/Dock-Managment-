@@ -1,19 +1,43 @@
-# React + Vite
+# Dock Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A real-time Dock Management Dashboard built using React and Vite for monitoring dock operations and truck movement.
 
-Currently, two official plugins are available:
+# Running the Project
+# Step 1: Start the Backend Server
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Open the first terminal and run:
 
-## React Compiler
+cd "LOCATION OF YOUR PROJECT FOLDER"
+cd server
+node server.js
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This will start the backend API server.
 
-## Expanding the ESLint configuration
+# Step 2: Start the Frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Open a second terminal and run:
+
+cd "LOCATION OF YOUR PROJECT FOLDER"
+npm run dev
+
+The application will start and can be accessed through the local URL shown in the terminal (usually http://localhost:5173).
+
+API Connection
+
+Make sure the backend server is running before starting the frontend. The frontend communicates with the API provided by server.js.
+
+Example
+
+Terminal 1
+
+cd "C:\Users\YourName\Desktop\Dock Management System"
+cd server
+node server.js
+
+Terminal 2
+
+cd "C:\Users\YourName\Desktop\Dock Management System"
+npm run dev
 
 # Smart Dock Management Dashboard
 

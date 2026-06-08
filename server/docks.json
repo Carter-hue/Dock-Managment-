@@ -1,0 +1,110 @@
+{
+  "pendingInQueue": 0,
+  "todayTotalTruck": 1,
+  "docks": [
+    {
+      "dock": "D1",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D2",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D3",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D4",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D5",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D6",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D7",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D8",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D9",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D10",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D11",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D12",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    },
+    {
+      "dock": "D13",
+      "token": "",
+      "geNo": "",
+      "truck": "",
+      "driver": "",
+      "timerSeconds": 0
+    }
+  ]
+}
